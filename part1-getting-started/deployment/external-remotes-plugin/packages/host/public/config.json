@@ -1,3 +1,4 @@
 {
-  "mfeUrl": "http://localhost:3001"
+  "mfeUrl1": "http://localhost:3000",
+  "mfeUrl2": "http://localhost:3001"
 }

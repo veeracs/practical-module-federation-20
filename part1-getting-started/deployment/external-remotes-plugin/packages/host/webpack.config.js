@@ -50,7 +50,8 @@ module.exports = {
       name: "host",
       filename: "remoteEntry.js",
       remotes: {
-        mfe: "mfe@[mfeUrl]/remoteEntry.js",
+        mfe1: "mfe1@[mfeUrl1]/remoteEntry.js",
+        mfe2: "mfe2@[mfeUrl2]/remoteEntry.js",
       },
       exposes: {},
       shared: {
